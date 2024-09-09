@@ -1,0 +1,14 @@
+celery==5.4.0
+docx==0.2.4
+Flask==3.0.3
+Flask_JWT_Extended==4.6.0
+flask_sqlalchemy==3.1.1
+jieba==0.42.1
+langchain==0.2.16
+neo4j==5.22.0
+openpyxl==3.1.4
+pandas==2.0.3
+python_docx==1.1.2
+SQLAlchemy==2.0.31
+Werkzeug==3.0.4
+zhipuai==2.1.5.20230904
